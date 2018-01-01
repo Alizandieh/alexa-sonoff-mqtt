@@ -1,0 +1,4 @@
+paho-mqtt
+Flask
+Ask
+flask-ask
